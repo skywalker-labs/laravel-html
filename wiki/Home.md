@@ -6,37 +6,37 @@ Welcome to the comprehensive documentation for the Laravel HTML & Form Builder p
 
 ### Getting Started
 
-- [Installation](Installation.md) - Setup and configuration
-- [Quick Start](Quick-Start.md) - Basic usage examples
-- [Configuration](Configuration.md) - Theme customization
+- [Installation](Installation) - Setup and configuration
+- [Quick Start](Quick-Start) - Basic usage examples
+- [Configuration](Configuration) - Theme customization
 
 ### Core Features
 
-- [Form Builder](Form-Builder.md) - Complete form building guide
-- [HTML Builder](HTML-Builder.md) - HTML utilities and helpers
-- [Model Binding](Model-Binding.md) - Automatic form population
-- [Validation](Validation.md) - Error handling and HTML5 validation
+- [Form Builder](Form-Builder) - Complete form building guide
+- [HTML Builder](HTML-Builder) - HTML utilities and helpers
+- [Model Binding](Model-Binding) - Automatic form population
+- [Validation](Validation) - Error handling and HTML5 validation
 
 ### Advanced Features
 
-- [Smart Inputs](Smart-Inputs.md) - Validation rules, toggles, color pickers
-- [Advanced Selects](Advanced-Selects.md) - Searchable, multi-select, AJAX
-- [Date & Time](Date-Time.md) - Date pickers and time inputs
-- [File Uploads](File-Uploads.md) - Single and multiple file uploads
-- [Rich Content](Rich-Content.md) - Rich text editor, inline editing, wizards
-- [UI Components](UI-Components.md) - Alerts, cards, modals, tabs, etc.
+- [Smart Inputs](Smart-Inputs) - Validation rules, toggles, color pickers
+- [Advanced Selects](Advanced-Selects) - Searchable, multi-select, AJAX
+- [Date & Time](Date-Time) - Date pickers and time inputs
+- [File Uploads](File-Uploads) - Single and multiple file uploads
+- [Rich Content](Rich-Content) - Rich text editor, inline editing, wizards
+- [UI Components](UI-Components) - Alerts, cards, modals, tabs, etc.
 
 ### Framework Integration
 
-- [Livewire Integration](Livewire.md) - Wire:model helpers
-- [Blade Components](Blade-Components.md) - Component-based syntax
-- [Theme Support](Themes.md) - Bootstrap and Tailwind CSS
+- [Livewire Integration](Livewire) - Wire:model helpers
+- [Blade Components](Blade-Components) - Component-based syntax
+- [Theme Support](Themes) - Bootstrap and Tailwind CSS
 
 ### Reference
 
-- [API Reference](API-Reference.md) - Complete method documentation
-- [Examples](Examples.md) - Real-world usage examples
-- [Accessibility](Accessibility.md) - A11y features and best practices
+- [API Reference](API-Reference) - Complete method documentation
+- [Examples](Examples) - Real-world usage examples
+- [Accessibility](Accessibility) - A11y features and best practices
 
 ## 🎯 Feature Overview
 
@@ -54,13 +54,13 @@ This package provides **50+ components** organized in 9 feature phases:
 
 ## 🚀 Quick Links
 
-- [Installation Guide](Installation.md)
-- [Complete API Reference](API-Reference.md)
-- [Usage Examples](Examples.md)
+- [Installation Guide](Installation)
+- [Complete API Reference](API-Reference)
+- [Usage Examples](Examples)
 - [GitHub Repository](https://github.com/ermradulsharma/laravel-html)
 
 ## 💡 Need Help?
 
-- Check the [Examples](Examples.md) page for real-world usage
-- Review the [API Reference](API-Reference.md) for method signatures
-- See [Configuration](Configuration.md) for customization options
+- Check the [Examples](Examples) page for real-world usage
+- Review the [API Reference](API-Reference) for method signatures
+- See [Configuration](Configuration) for customization options

@@ -105,6 +105,6 @@ Or set globally in `config/html.php`:
 
 ## Next Steps
 
-- [Form Builder Guide](Form-Builder.md) - Complete form documentation
-- [Smart Inputs](Smart-Inputs.md) - Advanced input features
-- [Examples](Examples.md) - Real-world examples
+- [Form Builder Guide]() - Complete form documentation
+- [Smart Inputs]() - Advanced input features
+- [Examples]() - Real-world examples

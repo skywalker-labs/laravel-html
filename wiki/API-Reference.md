@@ -348,6 +348,6 @@ Html::popover('Click me', 'Title', 'Content')
 
 ## Next Steps
 
-- [Examples](Examples.md) - Real-world usage examples
-- [Smart Inputs](Smart-Inputs.md) - Advanced input features
-- [UI Components](UI-Components.md) - Complete UI library
+- [Examples]() - Real-world usage examples
+- [Smart Inputs]() - Advanced input features
+- [UI Components]() - Complete UI library

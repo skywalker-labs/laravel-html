@@ -90,6 +90,6 @@ Test the installation:
 
 ## Next Steps
 
-- [Quick Start Guide](Quick-Start.md)
-- [Configuration Details](Configuration.md)
-- [Form Builder Guide](Form-Builder.md)
+- [Quick Start Guide]()
+- [Configuration Details]()
+- [Form Builder Guide]()

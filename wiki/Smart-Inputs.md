@@ -130,6 +130,6 @@ Star rating display and input:
 
 ## Next Steps
 
-- [Advanced Selects](Advanced-Selects.md) - Searchable and multi-select
-- [Date & Time](Date-Time.md) - Date pickers
-- [File Uploads](File-Uploads.md) - File upload with preview
+- [Advanced Selects]() - Searchable and multi-select
+- [Date & Time]() - Date pickers
+- [File Uploads]() - File upload with preview

@@ -209,6 +209,6 @@ class UserProfile extends Component
 
 ## Next Steps
 
-- [Smart Inputs](Smart-Inputs.md) - Combine with validation rules
-- [Examples](Examples.md) - More Livewire examples
-- [API Reference](API-Reference.md) - All wire methods
+- [Smart Inputs]() - Combine with validation rules
+- [Examples]() - More Livewire examples
+- [API Reference]() - All wire methods
